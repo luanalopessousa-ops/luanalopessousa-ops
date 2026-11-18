@@ -26,7 +26,7 @@ Atualmente, estou aprimorando meus conhecimentos em HTML, CSS e JavaScript, dese
 | 🍝 [Bella Tavola](https://github.com/luanalopessousa-ops/bella-tavola) | Restaurante com cardápio interativo e carrinho |
 | 🛍️ [SmartShop](https://github.com/luanalopessousa-ops/SmartShop) | Projeto demonstrativo de loja virtual |
 | 🦷 [Sorriso Prime](https://github.com/luanalopessousa-ops/Sorriso-Prime) | Site de clínica odontológica |
-| 🏡 Prime Residence |(https://github.com/luanalopessousa-ops/prime-residence) Site de imobiliária com filtros e galerias |
+| 🏡 Prime Residence}(https://github.com/luanalopessousa-ops/prime-residence) Site de imobiliária com filtros e galerias |
 ### 📚 Formação acadêmica
 
 **Análise e Desenvolvimento de Sistemas**
