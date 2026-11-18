@@ -17,15 +17,16 @@ Atualmente, estou aprimorando meus conhecimentos em HTML, CSS e JavaScript, dese
 
 ### 🌐 Meus projetos
 
+## 🌐 Meus projetos
+
 | Projeto | Descrição |
 |---|---|
-| 💅 [Studio Bella](https://github.com/luanalopessousa-ops/Studio-Bella) | Site de studio de beleza |
-| 💈 [Black Crown](https://github.com/luanalopessousa-ops/Black-crown-barbearia) | Barbearia premium |
-| 🍝 [Bella Tavola](https://github.com/luanalopessousa-ops/Bella-Tavola) | Restaurante com cardápio interativo |
-| 🛍️ [SmartShop](https://github.com/luanalopessousa-ops/SmartShop) | Loja virtual |
-| 🦷 [Sorriso Prime](https://github.com/luanalopessousa-ops/Sorriso-Prime) | Clínica odontológica |
-| 🏡 Prime Residence | Site de imobiliária com filtros e galerias |
-
+| 💅 [Studio Bella](https://github.com/luanalopessousa-ops/Studio-Bella) | Site de studio de beleza com apresentação de serviços |
+| 💈 [Black Crown](https://github.com/luanalopessousa-ops/black-crown-barbearia) | Barbearia premium com galeria interativa |
+| 🍝 [Bella Tavola](https://github.com/luanalopessousa-ops/bella-tavola) | Restaurante com cardápio interativo e carrinho |
+| 🛍️ [SmartShop](https://github.com/luanalopessousa-ops/SmartShop) | Projeto demonstrativo de loja virtual |
+| 🦷 [Sorriso Prime](https://github.com/luanalopessousa-ops/Sorriso-Prime) | Site de clínica odontológica |
+| 🏡 Prime Residence |(https://github.com/luanalopessousa-ops/prime-residence) Site de imobiliária com filtros e galerias |
 ### 📚 Formação acadêmica
 
 **Análise e Desenvolvimento de Sistemas**
