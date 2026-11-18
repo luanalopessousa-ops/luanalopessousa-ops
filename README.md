@@ -1,4 +1,3 @@
-
 # Olá! Eu sou a Luana Lopes 👋💗
 
 ### 💻 Desenvolvedora Front-End em formação
@@ -7,6 +6,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), apaixonada por te
 
 Atualmente, estou aprimorando meus conhecimentos em HTML, CSS e JavaScript, desenvolvendo projetos práticos e explorando novas possibilidades no Front-End.
 
+### 🚀 Tecnologias e ferramentas
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" alt="CSS3"/>
@@ -14,8 +15,6 @@ Atualmente, estou aprimorando meus conhecimentos em HTML, CSS e JavaScript, dese
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" alt="GitHub"/>
 </p>
-
-
 
 ## 🌐 Meus projetos
 
