@@ -15,7 +15,6 @@ Atualmente, estou aprimorando meus conhecimentos em HTML, CSS e JavaScript, dese
 - Git e GitHub
 - Visual Studio Code
 
-### 🌐 Meus projetos
 
 ## 🌐 Meus projetos
 
