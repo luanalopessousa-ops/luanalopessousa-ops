@@ -1,3 +1,4 @@
+#
 # Olá! Eu sou a Luana Lopes 👋💗
 
 ### 💻 Desenvolvedora Front-End em formação
@@ -16,7 +17,7 @@ Atualmente, estou aprimorando meus conhecimentos em HTML, CSS e JavaScript, dese
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" alt="GitHub"/>
 </p>
 
-## 🌐 Meus projetos
+### 🌐 Meus projetos
 
 | Projeto | Descrição |
 |---|---|
@@ -25,17 +26,36 @@ Atualmente, estou aprimorando meus conhecimentos em HTML, CSS e JavaScript, dese
 | 🍝 [Bella Tavola](https://github.com/luanalopessousa-ops/bella-tavola) | Restaurante com cardápio interativo e carrinho |
 | 🛍️ [SmartShop](https://github.com/luanalopessousa-ops/SmartShop) | Projeto demonstrativo de loja virtual |
 | 🦷 [Sorriso Prime](https://github.com/luanalopessousa-ops/Sorriso-Prime) | Site de clínica odontológica |
-| 🏡 Prime Residence| Site de imobiliária com filtros e galerias |
+| 🏡 Prime Residence | Site de imobiliária com filtros e galerias |
+
 ### 📚 Formação acadêmica
 
-**Análise e Desenvolvimento de Sistemas**
+**Análise e Desenvolvimento de Sistemas (ADS)**
 
-Atividades práticas envolvendo lógica de programação, algoritmos, desenvolvimento web e resolução de problemas.
+Durante minha formação, venho desenvolvendo conhecimentos em:
+
+- Lógica de programação
+- Algoritmos e pensamento computacional
+- Desenvolvimento web
+- Estruturação de páginas com HTML
+- Estilização e responsividade com CSS
+- Interatividade com JavaScript
 
 ### 🎯 Meus objetivos
 
-Continuar desenvolvendo minhas habilidades, criar projetos cada vez mais completos e conquistar minha primeira oportunidade profissional na área de tecnologia.
+Busco aprimorar continuamente minhas habilidades em desenvolvimento Front-End, construir projetos cada vez mais completos e conquistar minha primeira oportunidade profissional na área de tecnologia.
+
+### 💗 Sobre mim
+
+- 📖 Estudante de ADS
+- 💻 Interessada em desenvolvimento Front-End
+- 🌱 Aprendendo e evoluindo a cada projeto
+- 🚀 Em busca de crescimento profissional
 
 ---
 
-Obrigada por visitar meu perfil! 💗
+### ✨ Obrigada pela visita!
+
+Obrigada por conhecer meu perfil e meus projetos!
+
+Estou sempre aprendendo, praticando e buscando evoluir como desenvolvedora. 💗
